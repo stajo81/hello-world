@@ -1,2 +1,2 @@
 # hello-world
-hello-world project
+Step 1. Promjena readme datoteke u zasebnom branchu.
